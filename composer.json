@@ -1,0 +1,21 @@
+{
+    "name": "openauthdev/socialiteopenauthprovider",
+    "description": "OpenAuth.dev provider for Laravel Socialite",
+    "license": "",
+    "authors": [
+        {
+            "name": "Titus Kirch",
+            "email": "request@tkirch.dev"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.5",
+        "socialiteproviders/manager": "~3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "SocialiteProviders\\OpenAuth\\": ""
+        }
+    },
+    "minimum-stability": "stable"
+}
