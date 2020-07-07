@@ -1,6 +1,8 @@
 {
     "name": "openauthdev/socialiteopenauthprovider",
     "description": "OpenAuth.dev provider for Laravel Socialite",
+    "homepage": "https://www.openauth.dev/",
+    "readme": "README.md",
     "license": "GNU Lesser General Public License v2.1",
     "authors": [
         {
@@ -8,6 +10,9 @@
             "email": "request@tkirch.dev"
         }
     ],
+    "support": {
+        "issues": "https://github.com/openauth-dev/SocialiteOpenAuthProvider/issues",
+    }
     "require": {
         "php": ">=7.2.5",
         "socialiteproviders/manager": "~3.0"
