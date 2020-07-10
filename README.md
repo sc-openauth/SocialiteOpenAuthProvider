@@ -4,7 +4,7 @@ OpenAuth.dev provider for Laravel Socialite
 <p align="center">
     <a href="https://github.com/openauth-dev/SocialiteOpenAuthProvider/actions"><img src="https://github.com/openauth-dev/SocialiteOpenAuthProvider/workflows/Build/badge.svg" alt="Build action status"></a>
     <a href="https://github.com/openauth-dev/SocialiteOpenAuthProvider/blob/master/LICENSE"><img src="https://img.shields.io/github/license/openauth-dev/SocialiteOpenAuthProvider?label=License&labelColor=30363D&color=2FBF50" alt="License"></a>
-    <a href="https://packagist.org/packages/openauth-dev/SocialiteOpenAuthProvider"><img src="https://img.shields.io/packagist/dm/openauth-dev/SocialiteOpenAuthProvider?label=Downloads&labelColor=30363D&color=2FBF50" alt="Packagist Downloads"></a>
+    <a href="https://packagist.org/packages/openauth-dev/SocialiteOpenAuthProvider"><img src="https://img.shields.io/packagist/dm/openauthdev/socialiteopenauthprovider?label=Downloads&labelColor=30363D&color=2FBF50" alt="Packagist Downloads"></a>
     <a href="https://github.com/openauth-dev/SocialiteOpenAuthProvider/graphs/contributors"><img src="https://img.shields.io/github/contributors/openauth-dev/SocialiteOpenAuthProvider?label=Contributors&labelColor=30363D&color=2FBF50" alt="Contributors"></a>
 </p>
 
@@ -28,7 +28,7 @@ WIP
 
 Require the project:
 ```BASH
-composer require openauth-dev/SocialiteOpenAuthProvider
+composer require openauthdev/socialiteopenauthprovider
 ```
 
 Ready! Now you can start with your project.
