@@ -1,18 +1,24 @@
-# SocialiteOpenAuthProvider
-OpenAuth.dev provider for Laravel Socialite
+# OpenAuth.dev Provider for Laravel Socialite
 
-<p align="center">
-    <a href="https://github.com/openauth-dev/SocialiteOpenAuthProvider/actions"><img src="https://github.com/openauth-dev/SocialiteOpenAuthProvider/workflows/Build/badge.svg" alt="Build action status"></a>
-    <a href="https://github.com/openauth-dev/SocialiteOpenAuthProvider/blob/master/LICENSE"><img src="https://img.shields.io/github/license/openauth-dev/SocialiteOpenAuthProvider?label=License&labelColor=30363D&color=2FBF50" alt="License"></a>
-    <a href="https://packagist.org/packages/openauth-dev/SocialiteOpenAuthProvider"><img src="https://img.shields.io/packagist/dm/openauth-dev/SocialiteOpenAuthProvider?label=Downloads&labelColor=30363D&color=2FBF50" alt="Packagist Downloads"></a>
-    <a href="https://github.com/openauth-dev/SocialiteOpenAuthProvider/graphs/contributors"><img src="https://img.shields.io/github/contributors/openauth-dev/SocialiteOpenAuthProvider?label=Contributors&labelColor=30363D&color=2FBF50" alt="Contributors"></a>
-</p>
+<div align=center>
 
-## Table of contents
+![openauth-icon](https://user-images.githubusercontent.com/81188/87192541-f9fbe600-c2f6-11ea-9c8c-aebe7813d154.png)
+
+
+### OpenAuth.dev Provider for Laravel Socialite
+
+
+[![Build action status](https://github.com/openauth-dev/SocialiteOpenAuthProvider/workflows/Build/badge.svg)](https://github.com/openauth-dev/SocialiteOpenAuthProvider/actions) [![Latest Stable Version](https://poser.pugx.org/openauthdev/socialiteopenauthprovider/v)](//packagist.org/packages/openauthdev/socialiteopenauthprovider) [![Total Downloads](https://poser.pugx.org/openauthdev/socialiteopenauthprovider/downloads)](//packagist.org/packages/openauthdev/socialiteopenauthprovider) [![Latest Unstable Version](https://poser.pugx.org/openauthdev/socialiteopenauthprovider/v/unstable)](//packagist.org/packages/openauthdev/socialiteopenauthprovider) [![License](https://poser.pugx.org/openauthdev/socialiteopenauthprovider/license)](//packagist.org/packages/openauthdev/socialiteopenauthprovider)
+
+</div>
+
+---
+
+###   Table of contents
 
 * [About the project](#about-the-project)
 * [Getting Started](#getting-started)
-* [Conifuration](#conifuration)
+* [Configuration](#configuration)
 * [Usage](#usage)
 * [Contributing](#contributing)
 * [Versioning](#versioning)
@@ -28,12 +34,12 @@ WIP
 
 Require the project:
 ```BASH
-composer require openauth-dev/SocialiteOpenAuthProvider
+composer require openauthdev/socialiteopenauthprovider
 ```
 
 Ready! Now you can start with your project.
 
-## Conifuration
+## Configuration
 
 First of all replace the service provider `Laravel\Socialite\SocialiteServiceProvider` in the `config\app.php` in `providers[]` with `\SocialiteProviders\Manager\ServiceProvider::class`.
 
