@@ -12,7 +12,7 @@ OpenAuth.dev provider for Laravel Socialite
 
 * [About the project](#about-the-project)
 * [Getting Started](#getting-started)
-* [Conifuration](#conifuration)
+* [Configuration](#configuration)
 * [Usage](#usage)
 * [Contributing](#contributing)
 * [Versioning](#versioning)
@@ -33,7 +33,7 @@ composer require openauth-dev/SocialiteOpenAuthProvider
 
 Ready! Now you can start with your project.
 
-## Conifuration
+## Configuration
 
 First of all replace the service provider `Laravel\Socialite\SocialiteServiceProvider` in the `config\app.php` in `providers[]` with `\SocialiteProviders\Manager\ServiceProvider::class`.
 
