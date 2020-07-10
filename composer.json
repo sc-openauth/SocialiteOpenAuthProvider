@@ -3,7 +3,7 @@
     "description": "OpenAuth.dev provider for Laravel Socialite",
     "homepage": "https://www.openauth.dev/",
     "readme": "README.md",
-    "license": "GNU Lesser General Public License v2.1",
+    "license": "LGPL-2.1-only",
     "authors": [
         {
             "name": "Titus Kirch",
