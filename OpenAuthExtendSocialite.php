@@ -11,6 +11,6 @@ class OpenAuthExtendSocialite
      */
     public function handle(SocialiteWasCalled $socialiteWasCalled)
     {
-        $socialiteWasCalled->extendSocialite('openauth', __NAMESPACE__.'\Provider');
+        $socialiteWasCalled->extendSocialite('OPENAUTH', __NAMESPACE__.'\Provider');
     }
 }

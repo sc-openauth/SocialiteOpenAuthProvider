@@ -11,7 +11,7 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/openauth-dev/SocialiteOpenAuthProvider/issues",
+        "issues": "https://github.com/openauth-dev/SocialiteOpenAuthProvider/issues"
     },
     "require": {
         "php": ">=7.2.5",
