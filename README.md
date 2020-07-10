@@ -14,7 +14,7 @@
 
 ---
 
-###   Table of contents
+### Table of contents
 
 * [About the project](#about-the-project)
 * [Getting Started](#getting-started)
