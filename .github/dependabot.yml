@@ -1,0 +1,8 @@
+version: 2
+updates:
+  - package-ecosystem: "php:composer"
+    directory: "/"
+    schedule:
+      interval: "daily"
+    labels:
+      - dependence
