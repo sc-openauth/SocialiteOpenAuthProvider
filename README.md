@@ -65,7 +65,7 @@ The configuration is now complete.
 
 Now you can use the OAuthProvider as usual with Sociallite.
 ```PHP
-return Socialite::with('OPENAUTH')->redirect();
+return Socialite::driver('openauth')->redirect();
 ```
 
 ## Contributing
