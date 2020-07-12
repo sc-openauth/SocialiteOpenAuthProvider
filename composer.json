@@ -8,6 +8,10 @@
         {
             "name": "Titus Kirch",
             "email": "request@tkirch.dev"
+        },
+        {
+            "name": "Sascha Greuel",
+            "email": "s.greuel@openauth.dev"
         }
     ],
     "support": {
