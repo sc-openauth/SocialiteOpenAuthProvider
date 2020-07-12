@@ -7,11 +7,15 @@
     "authors": [
         {
             "name": "Titus Kirch",
-            "email": "request@tkirch.dev"
+            "email": "request@tkirch.dev",
+            "homepage": "https://tkirch.dev",
+            "role": "Developer"
         },
         {
             "name": "Sascha Greuel",
-            "email": "s.greuel@openauth.dev"
+            "email": "s.greuel@openauth.dev",
+            "homepage": "https://1-2.dev/",
+            "role": "Developer"
         }
     ],
     "support": {
