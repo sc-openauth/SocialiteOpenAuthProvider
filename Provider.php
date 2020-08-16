@@ -31,7 +31,7 @@ class Provider extends AbstractProvider
     protected function getAuthUrl($state)
     {
         return $this->buildAuthUrlFromBase(
-            'https://www.openauth.dev/oauth2-authorize/',
+            'https://www.openauth.dev/authorize',
             $state
         );
     }
@@ -41,7 +41,7 @@ class Provider extends AbstractProvider
      */
     protected function getTokenUrl()
     {
-        return 'https://www.openauth.dev/oauth2-token/';
+        return 'https://www.openauth.dev/token';
     }
 
     /**
@@ -50,7 +50,7 @@ class Provider extends AbstractProvider
     protected function getUserByToken($token)
     {
         $response = $this->getHttpClient()->get(
-            'https://www.openauth.dev/open-id-user-information/',
+            'https://www.openauth.dev/userinfo',
             [
                 'headers' => [
                     'Authorization' => 'Bearer '.$token,
