@@ -8,7 +8,8 @@
 ### OpenAuth.dev Provider for Laravel Socialite
 
 
-[![Build action status](https://github.com/openauth-dev/SocialiteOpenAuthProvider/workflows/Build/badge.svg)](https://github.com/openauth-dev/SocialiteOpenAuthProvider/actions) [![Latest Stable Version](https://poser.pugx.org/openauthdev/socialiteopenauthprovider/v)](//packagist.org/packages/openauthdev/socialiteopenauthprovider) [![Total Downloads](https://poser.pugx.org/openauthdev/socialiteopenauthprovider/downloads)](//packagist.org/packages/openauthdev/socialiteopenauthprovider) [![Latest Unstable Version](https://poser.pugx.org/openauthdev/socialiteopenauthprovider/v/unstable)](//packagist.org/packages/openauthdev/socialiteopenauthprovider) [![License](https://poser.pugx.org/openauthdev/socialiteopenauthprovider/license)](//packagist.org/packages/openauthdev/socialiteopenauthprovider)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/openauth-dev/SocialiteOpenAuthProvider/Build) ![Packagist Version](https://img.shields.io/packagist/v/openauthdev/socialiteopenauthprovider) ![Packagist Downloads](https://img.shields.io/packagist/dt/openauthdev/socialiteopenauthprovider) 
+[![GitHub license](https://img.shields.io/github/license/openauth-dev/SocialiteOpenAuthProvider)](https://github.com/openauth-dev/SocialiteOpenAuthProvider/blob/main/LICENSE)
 
 </div>
 
