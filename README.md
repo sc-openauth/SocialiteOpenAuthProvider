@@ -29,7 +29,7 @@
 
 ## About the project
 
-WIP
+TBA
 
 ## Getting started
 
